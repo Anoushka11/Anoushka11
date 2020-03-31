@@ -1,6 +1,7 @@
 # Anoushka11
 
-<GOAL OF THE PROJECT>
+##GOAL OF THE PROJECT
+
 
 
 1.A tidy data set
